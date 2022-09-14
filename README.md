@@ -1,3 +1,5 @@
+![portada](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
+
 ### Hi there 👋, my name is Melina
 Full Stack Web Developer knowledgeable in UI, UX and maintenance of web systems. Proficient in an assortment of technologies,
 including Javascript, Typescript, NodeJS, React, Redux, and SQL. Able to effectively self-manage during independent projects, as well
